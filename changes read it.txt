@@ -1,0 +1,4 @@
+aqui implemente el core.php y defini algunos puntos
+tambien agrege el css y puse el bootstrap aunque hay un fallo en los glyphicons
+tambien cree los controladores aunque son sencillos de las paginas 
+y si el index.php parece mas largo pero asi funciono xD
